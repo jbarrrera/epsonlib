@@ -1,0 +1,13 @@
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhone\Debug\EpsonSample.exe
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhone\Debug\EpsonSample.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhone\Debug\EpsonBindings.dll
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhone\Debug\EpsonBindings.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhone\Debug\EpsonBindings.dll.mdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\device-builds\ipad4.1-10.3.2\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\device-builds\ipad4.1-10.3.2\actool\_PartialAppManifest.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\device-builds\ipad4.1-10.3.2\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\device-builds\ipad4.1-10.3.2\optimized\Entitlements.plist
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\device-builds\ipad4.1-10.3.2\optimized\
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\EpsonSample.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\EpsonSample.exe
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhone\Debug\EpsonSample.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhoneSimulator\Debug\EpsonSample.exe
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhoneSimulator\Debug\EpsonSample.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhoneSimulator\Debug\EpsonBindings.dll
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\bin\iPhoneSimulator\Debug\EpsonBindings.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\EpsonSample.exe
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\EpsonSample.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonSample\obj\iPhoneSimulator\Debug\EpsonSample.csprojResolveAssemblyReference.cache
