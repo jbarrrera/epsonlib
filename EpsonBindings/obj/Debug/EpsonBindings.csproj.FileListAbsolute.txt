@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonBindings\bin\Debug\Structs.cs
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonBindings\bin\Debug\EpsonBindings.dll
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonBindings\bin\Debug\EpsonBindings.pdb
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonBindings\obj\Debug\EpsonBindings.dll
+C:\Users\user\documents\visual studio 2015\Projects\EpsonSample\EpsonBindings\obj\Debug\EpsonBindings.pdb
